@@ -1,0 +1,3 @@
+remcp — general reverse-engineering MCP server
+
+See README.md. Read-only by design.

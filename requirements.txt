@@ -1,0 +1,7 @@
+# Pinned so a dependency update cannot silently change analysis output.
+# Pinning extractors and decoders is the same discipline as pinning a
+# compiler: the results are only reproducible if the tools are.
+pefile==2024.8.26
+capstone==5.0.7
+pyelftools==0.33
+mcp>=1.2.0
